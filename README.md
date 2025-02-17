@@ -15,3 +15,7 @@ Non-Functional Requirements are gathered from the business and technical users a
 ## Intended Audience
 
 This document is intended for both new and experienced Business Analysts and Business Architects, who are being on-boarded, in order to provide an understanding of non-functional requirements as well as provide a list of non-functional requirements which can be used as a point of reference when eliciting requirements during requirements gathering and/or design in a project.
+
+## How to Use this Document
+
+This document provides guidelines as well as boilerplate requirements to enable an Information Technology (IT) Business Analyst to elicit Non-Functional Requirements. However, what requirements are applicable will depend on the nature of the project (all requirements may not be applicable). Also, please note that although the document contains a comprehensive list of Non-Functional Requirements, the list may not be exhaustive. Thus, the IT Business Analyst will need to adapt the list according to the needs of the project.
